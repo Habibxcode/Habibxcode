@@ -1,20 +1,13 @@
-<div align="center">
-
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ habibxcode ~ $ profile.sh --live                                            ─ ▢ ✕ │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                        │
-│   ██╗  ██╗ █████╗ ██████╗ ██╗██████╗   SYSTEM INFO                                     │
-│   ██║  ██║██╔══██╗██╔══██╗██║██╔══██╗  ───────────                                     │
-│   ███████║███████║██████╔╝██║██████╔╝  Subject:     Habib Ur Rehman                    │
-│   ██╔══██║██╔══██╗██╔══██╗██║██╔══██╗  Role:        BSCS Undergrad / Developer         │
-│   ██║  ██║██║  ██║██████╔╝██║██████╔╝  Languages:   C++, Python, JavaScript            │
-│   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═════╝   Toolchain:   VS Code, Git, Firebase             │
-│                                        Focus:       Blockchain, Federated Learning     │
-│                                                                                        │
-│                                        CONTACT                                         │
-│                                        ───────                                         │
-│                                        GitHub:      @habibxcode                        │
-│                                                                                        │
-└────────────────────────────────────────────────────────────────────────────────────────┘
+<a href="https://github.com/Habibxcode/Habibxcode">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Habibxcode/Habibxcode/main/dark.svg">
+    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Habibxcode/Habibxcode/main/light.svg">
+  </picture>
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Habibxcode/Habibxcode/main/dist/github-jet.svg"
+    alt="GitHub Jet Heatmap"
+    width="100%"
+  />
+</p>
+</a>
