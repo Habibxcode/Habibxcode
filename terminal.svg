@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="420" viewBox="0 0 850 420">
+  <!-- Window Background -->
+  <rect width="850" height="420" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Mac Window Buttons -->
+  <circle cx="20" cy="20" r="6" fill="#ff5f56" />
+  <circle cx="40" cy="20" r="6" fill="#ffbd2e" />
+  <circle cx="60" cy="20" r="6" fill="#27c93f" />
+  
+  <!-- Window Title -->
+  <text x="425" y="24" fill="#8b949e" font-family="monospace" font-size="13" text-anchor="middle">habibxcode ~ $ ./profile.sh --live</text>
+  <line x1="0" y1="40" x2="850" y2="40" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- ASCII Art Profile (Left Side) -->
+  <g transform="translate(40, 90)" fill="#58a6ff" font-family="monospace" font-size="12" font-weight="bold" letter-spacing="1">
+    <text y="0">██╗  ██╗ █████╗ ██████╗ ██╗██████╗ </text>
+    <text y="20">██║  ██║██╔══██╗██╔══██╗██║██╔══██╗</text>
+    <text y="40">███████║███████║██████╔╝██║██████╔╝</text>
+    <text y="60">██╔══██║██╔══██╗██╔══██╗██║██╔══██╗</text>
+    <text y="80">██║  ██║██║  ██║██████╔╝██║██████╔╝</text>
+    <text y="100">╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═════╝ </text>
+    
+    <text y="150" fill="#3fb950" font-weight="normal">> SYSTEM_READY</text>
+    <text y="170" fill="#3fb950" font-weight="normal">> LOADING_MODULES...</text>
+    <text y="190" fill="#3fb950" font-weight="normal">> COMPILE_SUCCESSFUL</text>
+  </g>
+
+  <!-- System Info (Right Side) -->
+  <g transform="translate(400, 90)" font-family="monospace" font-size="14">
+    <text y="0" fill="#79c0ff" font-weight="bold">SYSTEM.INFO</text>
+    <text y="12" fill="#8b949e">-------------------------------------------------</text>
+    
+    <text y="40" fill="#c9d1d9"><tspan fill="#58a6ff" font-weight="bold">Subject:      </tspan>Habib Ur Rehman</text>
+    <text y="70" fill="#c9d1d9"><tspan fill="#58a6ff" font-weight="bold">Role:         </tspan>BSCS Undergrad / Developer</text>
+    <text y="100" fill="#c9d1d9"><tspan fill="#58a6ff" font-weight="bold">Focus:        </tspan>Blockchain, Federated Learning</text>
+    <text y="130" fill="#c9d1d9"><tspan fill="#58a6ff" font-weight="bold">Languages:    </tspan>C++, Python, JavaScript</text>
+    <text y="160" fill="#c9d1d9"><tspan fill="#58a6ff" font-weight="bold">Toolchain:    </tspan>VS Code, Git, Firebase</text>
+    <text y="190" fill="#c9d1d9"><tspan fill="#58a6ff" font-weight="bold">University:   </tspan>Information Technology University</text>
+    
+    <text y="240" fill="#79c0ff" font-weight="bold">CONTACT.INFO</text>
+    <text y="252" fill="#8b949e">-------------------------------------------------</text>
+    <text y="280" fill="#c9d1d9"><tspan fill="#58a6ff" font-weight="bold">GitHub:       </tspan>github.com/habibxcode</text>
+    
+    <text y="330" fill="#8b949e" font-style="italic">/* Status: Building, Learning, Executing */</text>
+  </g>
+</svg>
