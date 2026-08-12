@@ -1,7 +1,7 @@
 <a href="https://github.com/Habibxcode/Habibxcode">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Habibxcode/Habibxcode/main/dark.svg">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/Habibxcode/Habibxcode/main/light.svg">
+    <img alt="Habib Ur Rehman - GitHub Profile" src="https://raw.githubusercontent.com/Habibxcode/Habibxcode/main/light.svg">
   </picture>
   <p align="center">
   <img
